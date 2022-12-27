@@ -1,0 +1,15 @@
+R_fighter,B_fighter,date,location,title_bout,weight_class,gender,Predicted_Winner
+Israel Adesanya,Alex Pereira,12-nov-22,"New York City, New York, USA",True,Middleweight,Men's,Red
+Carla Esparza,Zhang Weili,12-nov-22,"New York City, New York, USA",True,Women's Strawweight,Women's,Red
+Dustin Poirier,Michael Chandler,12-nov-22,"New York City, New York, USA",False,Lightweight,Men's,Red
+Frankie Edgar,Chris Gutierrez,12-nov-22,"New York City, New York, USA",False,Featherweight,Men's,Blue
+Dan Hooker,Claudio Puelles,12-nov-22,"New York City, New York, USA",False,Lightweight,Men's,Blue
+Brad Riddell,Renato Moicano,12-nov-22,"New York City, New York, USA",False,Lightweight,Men's,Red
+Dominick Reyes,Ryan Spann,12-nov-22,"New York City, New York, USA",False,Light Heavyweight,Men's,Red
+Erin Blanchfield,Molly McCann,12-nov-22,"New York City, New York, USA",False,Women's Flyweight,Women's,Red
+Andre Petroski,Wellington Turman,12-nov-22,"New York City, New York, USA",False,Middleweight,Men's,Blue
+Karolina Kowalkiewicz,Silvana Gomez Juarez,12-nov-22,"New York City, New York, USA",False,Women's Strawweight,Women's,Red
+Michael Trizano,SeungWoo Choi,12-nov-22,"New York City, New York, USA",False,Featherweight,Men's,Red
+Matt Frevola,Ottman Azaitar,12-nov-22,"New York City, New York, USA",False,Lightweight,Men's,Blue
+Julio Arce,Montel Jackson,12-nov-22,"New York City, New York, USA",False,Featherweight,Men's,Blue
+Carlos Ulberg,Nicolae Negumereanu,12-nov-22,"New York City, New York, USA",False,Light Heavyweight,Men's,Red
